@@ -1,4 +1,8 @@
-### My Certifications 🌱
+## My Reading List 📚
+### 2023
+The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change - https://a.co/d/5SJdj7b
+
+## My Certifications 🌱
 
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/24bba1ee-6f53-42d0-8906-9426ce158bcc "AWS Certified Solutions Architect - Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/200x200/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/d4ca54d7-775f-4913-91cd-234fb9508b50 "AWS Certified Developer – Associate")
