@@ -3,6 +3,7 @@ The list starts from October 2023. I will try to keep it up to date.
 ### 2023
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://a.co/d/5SJdj7b) - *Tanya Reilly*
 - [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://a.co/d/gtJkU63) - *Gergely Orosz*
+- [A Philosophy of Software Design](https://a.co/d/fW2mRDM) - *John Ousterhout*
 
 ## My Certifications 🌱
 
