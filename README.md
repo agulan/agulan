@@ -1,4 +1,7 @@
 ## My Reading List 📚
+### 2024
+- [An Elegant Puzzle: Systems of Engineering Management](https://a.co/d/fPFmqR1) - *Will Larson*
+
 The list starts from October 2023. I will try to keep it up to date.
 ### 2023
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://a.co/d/5SJdj7b) - *Tanya Reilly*
