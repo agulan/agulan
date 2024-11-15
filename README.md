@@ -1,9 +1,5 @@
 ## My Reading List 📚
-### 2024
 - [An Elegant Puzzle: Systems of Engineering Management](https://a.co/d/fPFmqR1) - *Will Larson*
-
-### 2023
-_The list starts from October 2023._
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://a.co/d/5SJdj7b) - *Tanya Reilly*
 - [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://a.co/d/gtJkU63) - *Gergely Orosz*
 - [A Philosophy of Software Design](https://a.co/d/fW2mRDM) - *John Ousterhout*
