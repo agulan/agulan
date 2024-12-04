@@ -1,4 +1,5 @@
 ## My Reading List 📚
+- [Siliconned: How the tech industry solves fake problems, hoards idle workers, and makes doomed bets with other people's money](https://a.co/d/1vqNduI) - *Emmanuel Maggiori*
 - [An Elegant Puzzle: Systems of Engineering Management](https://a.co/d/fPFmqR1) - *Will Larson*
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://a.co/d/5SJdj7b) - *Tanya Reilly*
 - [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://a.co/d/gtJkU63) - *Gergely Orosz*
