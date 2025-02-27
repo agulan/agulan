@@ -5,6 +5,9 @@
 - [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://a.co/d/gtJkU63) - *Gergely Orosz*
 - [A Philosophy of Software Design](https://a.co/d/fW2mRDM) - *John Ousterhout*
 
+## My Blogs ✍️
+- [Cost Savings: A journey migrating to self-hosted runners from GitHub runners](https://itsjan.medium.com/cost-savings-our-journey-migrating-to-self-hosted-runners-from-github-runners-53e3e3f1df23)
+
 ## My Certifications 🌱
 
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/24bba1ee-6f53-42d0-8906-9426ce158bcc "AWS Certified Solutions Architect - Associate")
