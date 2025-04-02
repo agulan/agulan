@@ -7,6 +7,7 @@
 
 ## My Blogs ✍️
 - [Cost Savings: A journey migrating to self-hosted runners from GitHub runners](https://itsjan.medium.com/cost-savings-our-journey-migrating-to-self-hosted-runners-from-github-runners-53e3e3f1df23)
+- [An implementation of on-demand feature environments on AWS using Terraform, Terragrunt, and GitHub Actions](https://medium.com/@itsjan/an-implementation-of-on-demand-feature-environments-on-aws-using-terraform-terragrunt-and-github-ad4951637fd3)
 
 ## My Certifications 🌱
 
