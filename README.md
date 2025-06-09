@@ -4,6 +4,7 @@
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://a.co/d/5SJdj7b) - *Tanya Reilly*
 - [The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups](https://a.co/d/gtJkU63) - *Gergely Orosz*
 - [A Philosophy of Software Design](https://a.co/d/fW2mRDM) - *John Ousterhout*
+- [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter, Updated and Expanded](https://a.co/d/9lbcgNz) - *Michael D. Watkins*
 
 ## My Tech Blogs ✍️
 - [Cost Savings: A journey migrating to self-hosted runners from GitHub runners](https://itsjan.medium.com/cost-savings-our-journey-migrating-to-self-hosted-runners-from-github-runners-53e3e3f1df23)
